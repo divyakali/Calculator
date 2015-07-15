@@ -10,7 +10,7 @@ public interface Calculator {
 	//computation behavior 
 	public Double compute(Double number1, Double number2, char op);
 
-	//printResult
+	//printResult behavior
 	public Double printResult();
 
 }

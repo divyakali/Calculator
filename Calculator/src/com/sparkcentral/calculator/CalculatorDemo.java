@@ -1,6 +1,5 @@
 package com.sparkcentral.calculator;
 
-import java.util.Scanner;
 
 /**
  * This class is responsible for demonstrating different types of classes

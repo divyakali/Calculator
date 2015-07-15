@@ -3,7 +3,8 @@ package com.sparkcentral.calculator;
 /**
  * This is a basic implementation of the Calculator class. There is no special
  * functionality. In addition to implementing the basic behavior , you can
- * extend your functionality with additional methods
+ * extend your functionality with additional methods.  The subclasses with extended behaviors can be
+ * used by classses like StandardCalculator and Scientific calculators
  * 
  * @author aethena
  *

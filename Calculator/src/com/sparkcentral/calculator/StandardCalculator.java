@@ -17,7 +17,7 @@ public class StandardCalculator {
 			process(expression);
 		} else {
 			// you can have a user defined exception
-			throw new Excetion("Improper format");
+			throw new Exception("Improper format");
 		}
 
 	}
